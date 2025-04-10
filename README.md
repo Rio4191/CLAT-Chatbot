@@ -1,5 +1,5 @@
 
-# 🎓 CLAT Chatbot 2.0
+# 🎓 CLAT Chatbot
 
 ## 📘 Objective
 A CLAT chatbot using a rich knowledge base and fuzzy logic to answer exam-related queries.
